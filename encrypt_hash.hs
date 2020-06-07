@@ -1,5 +1,5 @@
 -- Author: Yousif Dafalla
--- EECS-776 Final Project
+-- Encryption/Decryption Application in Haskell
 
 --In order to be able to run this you need to install the following
 --stack install cryptonite

@@ -1,4 +1,4 @@
-Yousif Dafalla EECS-776 Final Project
+Yousif Dafalla Encryption/Decryption Project
 
 Summary:
 
